@@ -1,0 +1,6 @@
+body { background:#7f7f7f url(../images/grey/top-bg.png) repeat-x scroll left top; }
+div#search { background:transparent url(../images/grey/searchbar-bg.png) no-repeat; }
+	#search fieldset input#search-field { color: #bcbcbc; }
+#main-content h2, #main-content h3, #main-content h3 a, #main-content h2 a, #main-content h1, #main-content h4, #main-content h1 a, #main-content h4 a, #main-content h5, #main-content h6, #main-content h5 a, #main-content h6 a { color:#2d2d2d; }
+ul#bottomnav li a, div#footer { color:#b6b6b6; }
+ul#bottomnav li a:hover, ul#bottomnav li.active a { color:#ef7600; }
